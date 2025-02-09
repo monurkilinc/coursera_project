@@ -1,2 +1,2 @@
 # coursera_project
-Final Project Repository for Coursera
+This is a sample repository for the Coursera Final Project
